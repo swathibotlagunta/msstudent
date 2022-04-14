@@ -1,4 +1,4 @@
-package com.swathi.demo.controller;
+package com.swathi.data.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.swathi.data.model.Student;
-import com.swathi.demo.service.StudentService;
+import com.swathi.data.service.StudentService;
 
 @RestController
 @RequestMapping("/api")

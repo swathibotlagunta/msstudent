@@ -1,4 +1,4 @@
-package com.swathi.demo.service;
+package com.swathi.data.service;
 
 import java.util.List;
 import java.util.Optional;
